@@ -54,6 +54,9 @@ Project Solution:
 
 Include a comprehensive summary of all important information about your project solution here. All necessary code files and any additional information required to judge your project solution should be included in the repository.
 
+The goal of this Womanium Quantum+AI Project 2024 was to implement, optimize, and assess the quantum algorithm from the paper "Exponential quantum speedup in simulating coupled classical oscillators"[1] using Classiq. 
+[1]Babbush, R., Berry, D. W., Kothari, R., Somma, R. D., & Wiebe, N. (2023). Exponential quantum speedup in simulating coupled classical oscillators. Physical Review X, 13(4), 041041.
+
 Project Presentation Deck:
 
 Upload/ Link a 3min. presentation deck here.
