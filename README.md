@@ -36,19 +36,15 @@ Team Information:
 
 Team Member 1:
 
-    Full Name: Cynthia Cruz Sanchez
-    Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-    WQ24-c41u1JLyH5uNGUb
+    Full Name: Cynthia Y. Cruz Sanchez
 
 Team Member 2:
 
     Full Name: Mahroo Mirabdolhagh Hazaveh
-    Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+    
 Team Member 3: 
 
     Full Name: Johanna Nemec
-    Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-5UJjBWVdsWqyNHh
 
 Project Solution:
 
